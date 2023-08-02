@@ -13,6 +13,7 @@
 ### This program will be a Java console application named RockPaperScissors.
 
 The program first asks the user how many rounds he/she wants to play.
+
 Maximum number of rounds = 10, minimum number of rounds = 1.
 If the user asks for something outside this range, the program prints an error message and quits.
 If the number of rounds is in range, the program plays that number of rounds.
